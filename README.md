@@ -1,5 +1,6 @@
 # mongodb_badge_basics
 - Name: Blanca Chimborazo-Reyes
+- Class: HHA 504
 # Badges
 - I logged into MongoDB using my existing GitHub account. Because of this, my name on the below badges/certificates appears as my GitHub username, "bchimborazo". 
 - Link to badges: https://www.credly.com/users/blanca-chimborazo-reyes/badges#credly
